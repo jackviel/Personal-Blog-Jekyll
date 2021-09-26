@@ -3,7 +3,7 @@ layout: post
 title: A little blog introduction
 ---
 
-Okay, so this is going to be a quick little check in and introduction to my personal blog, I’m going to cover what I'm going to be doing with it. I started this blog recently, a bit more than a month ago now, the first blog post was sort of a trial run, to see how potentially I was going to structure and set up my blog posts, and what I was going to cover. I really liked how the first post turned out, so I want to keep doing more of them.
+Okay, so this is going to be a quick little check-in and introduction to my personal blog, I’m going to cover what I'm going to be doing with it. I started this blog recently, a bit more than a month ago now, the first blog post was sort of a trial run, to see how potentially I was going to structure and set up my blog posts, and what I was going to cover. I really liked how the first post turned out, so I want to keep doing more of them.
 
 So, this is my personal blog! I'm Jackviel, and I’m a Computer Science major at the University of Central Florida. I'm going to be using this blog to talk about various topics and learning experiences, mostly concerning my CS ventures.
 
