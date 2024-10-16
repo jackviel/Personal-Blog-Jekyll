@@ -6,7 +6,7 @@ sidebar_link: true
 
 ## Heyo, welcome to my personal blog!
 <br />
-I'm Jackviel, for as long as I can remember, I've had a need to learn as much as I can, and that's what this blog
+For as long as I can remember, I've had a need to learn as much as I can, and that's what this blog
 will mostly be about and focused on. 
 
 What initially led me to start this blog was the fact that I was doing a deep dive into
